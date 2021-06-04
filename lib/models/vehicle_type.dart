@@ -1,0 +1,3 @@
+class VehicleType {
+  String name;
+}
